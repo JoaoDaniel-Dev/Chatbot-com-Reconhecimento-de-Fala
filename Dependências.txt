@@ -1,0 +1,12 @@
+bibliotecas python
+
+Vosk.............: Version: 0.3.43
+PyAudio..........: Version: 0.2.11
+pyttsx3..........: Version: 2.90
+ChatterBot.......: Version: 1.0.5
+chatterbot-corpus: Version: 1.2.0
+=====================================
+# OS Linux
+
+eSpeak instalado na maquina
+eSpeak...........: Version: 1.48.03

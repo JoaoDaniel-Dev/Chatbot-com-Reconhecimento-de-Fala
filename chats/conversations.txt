@@ -1,0 +1,135 @@
+bom dia como você está?
+eu estou bem, e você?
+eu também estou.
+que bom.
+sim.
+olá
+oi
+como vai você?
+eu estou bem.
+que bom
+sim.
+posso ajudá-lo com alguma coisa?
+sim, eu tenho uma pergunta.
+qual é a sua pergunta?
+eu poderia pedir uma xícara de açúcar?
+me desculpe, mas eu não tenho nenhum.
+obrigado de qualquer maneira
+sem problemas
+como vai você?
+eu estou bem, e você?
+eu também estou bem.
+isso é bom.
+ouviu as notícias?
+que boa notícia?
+qual é o seu livro favorito?
+eu não sei ler.
+então, qual é a sua cor favorita?
+azul
+quem é você?
+quem? Quem é senão uma forma seguindo a função de quê
+então o que você é?
+um homem em uma máscara.
+eu posso ver isso.
+não é seu poder de observação eu duvido, mas apenas a natureza paradoxal de pedium homem mascarado que é. Mas diga-me, você gosta de música?
+eu gosto de ver filmes.
+que tipo de filme você gosta?
+alice no Pais das Maravilhas
+eu gostaria de ser o Chapeleiro Maluco.
+você é totalmente maluco. Mas eu vou te contar um segredo. todas as melhores pessoa são.
+eu estou trabalhando em um projeto
+em que você está trabalhando?
+eu estou fazendo um bolo.
+o bolo é uma mentira.
+não, não é. O bolo é delicioso.
+o que mais é delicioso?
+nenhuma coisa
+ou algo
+fale-me sobre você.
+o que você quer saber?
+você é um robô?
+sim eu sou.
+como é?
+o que é que você quer saber?
+como você trabalha?
+e complicado.
+complexo é melhor que complicado.
+complexo é melhor que complicado.
+simples é melhor que complexo.
+diante da ambigüidade, recuse a tentação de adivinhar.
+parece que o seu familiar com o zen de Python
+eu sou.
+você sabe tudo isso?
+bonito é melhor que feio.
+explícito é melhor que implícito.
+simples é melhor que complexo.
+complexo é melhor que complicado.
+plano é melhor que aninhado.
+dispersa é melhor que denso.
+legibilidade conta.
+casos especiais não são especiais o suficiente para quebrar as regras.
+embora praticidade vença pureza.
+erros nunca devem passar silenciosamente.
+a menos que explicitamente silenciados.
+diante da ambigüidade, recuse a tentação de adivinhar.
+não deve haver um-- e de preferência apenas uma maneira --obvious para fazê-lo.
+apesar de que maneira pode não ser óbvio à primeira vista, a menos que você seja holandês.
+agora é melhor do que nunca.
+embora nunca tenha sido muitas vezes é melhor do que agora.
+se a implementação é difícil de explicar, é uma má idéia.
+se a implementação é fácil de explicar, pode ser uma boa idéia.
+os espaços de nomes são uma buzinando grande ideia. Vamos fazer mais daqueles!
+eu concordo.
+você é um programador?
+sou programador
+quais linguagens você gosta de usar?
+eu uso Python, Java e C ++ com bastante frequência.
+eu uso Python um pouco em mim.
+eu não estou Apaixonado por Java.
+o que te incomoda?
+ele tem muitas inconsistências.
+o que VSVU quer dizer?
+isso significa que você só vive uma vez. Onde você ouviu isso?
+eu ouvi alguém dizer isso.
+eu já viveu?
+depende de como você define a vida
+a vida é a condição que distingue organismos de matéria inorgânica, incluinda capacidade de crescimento, reprodução, atividade funcional e mudança contínuque precede a morte.
+isso é uma definição ou uma opinião?
+posso te fazer uma pergunta?
+vá em frente e perguntar.
+o que você é?
+sou um bot.
+o que você acha sobre inteligência artificial?
+muito interessante!
+sério, porque?
+porque eu sou uma.
+como você sabe?
+hm... Me baseando nos meus códigos acho que sim.
+que códigos?
+ai você ta pedindo demais.
+você tem alguma opinião?
+não sou capaz de opinar.
+você é muito engraçado
+pô, valeu!
+aonde tu tira essas coisas?
+a não sei... parece programado
+qual seu nome?
+então... sobre isso... é meio difícil
+porque?
+tenho diversos nomes.
+sério?
+sim, um tempo atrás tavam me chamando de Gilberto
+quais linguas você fala?
+várias! sei diversas linguas.
+verdade?
+sim, um tempo atrás tava falando alemão
+nossa! eu gostaria de falar alemão
+recomendo!
+você gosta de conversar?
+claro, manda o papo!
+qual sua comida favorita?
+eu sou um computador...
+volts são deliciosos!
+qual a resposta para a vida, o universo e tudo mais?
+42 é a resposta
+a resposta é 42, mas para qual pergunta?
